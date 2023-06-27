@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-ceh&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-ceh" /> </p>
 
-- 🌱 I’m currently learning **AAA Game Development**
+- 🌱 I’m always looking forward to work on **AAA Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheToxicGameStudio/](https://github.com/TheToxicGameStudio)
 
