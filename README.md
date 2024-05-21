@@ -7,13 +7,13 @@
 
 - 🌱 I’m always looking forward to work on **AAA Game Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheToxicGameStudio/](https://github.com/TheToxicGameStudio)
+- 👨‍💻 All of my projects are available at [MortalArt Studio](https://github.com/TheToxicGameStudio)
 
 - 💬 Ask me about **Unreal or Unity**
 
-- 👻 How to reach me **Nah you can't 😆**
+- 👻 How to reach me **Nah you can't! ....Kidding 😆 **
 
-- 📫 If desperate to reach me then let's we talk on Discord : **ToxicBoy#9162**
+- 📫 Let's talk on Discord: **emperor_hunter07**
 
 
 
