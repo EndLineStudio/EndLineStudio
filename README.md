@@ -7,7 +7,7 @@
 
 - 🌱 I’m always looking forward to work on **AAA Game Development**
 
-- 👨‍💻 All of my projects are available at [MortalArt Studio](https://github.com/TheToxicGameStudio)
+- 👨‍💻 All of my projects are available at [EndLine Studio](https://github.com/TheToxicGameStudio)
 
 - 💬 Ask me about **Unreal or Unity**
 
