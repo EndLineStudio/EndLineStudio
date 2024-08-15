@@ -7,7 +7,7 @@
 
 - 🌱 I’m always looking forward to work on **AAA Game Development**
 
-- 👨‍💻 All of my projects are available at [EndLine Studio](https://github.com/TheToxicGameStudio)
+- 👨‍💻 All of my projects are available at [EndLine Studio](https://github.com/EndLineStudio)
 
 - 💬 Ask me about **Unreal or Unity**
 
@@ -15,7 +15,7 @@
 
 - 👻 How to reach me **Nah you can't! ....Kidding 😆 **
 
-- 📫 Let's talk on Discord: **emperor_hunter07**
+- 📫 Let's talk on Discord: [emperor_hunter07](https://discord.com)
 
 
 
