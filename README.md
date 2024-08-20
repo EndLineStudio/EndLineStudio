@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Unreal or Unity**
 
-- 🎮 Live games are available at [PlayStore](https://play.google.com/store/apps/dev?id=7533958671773408205) [itch.io](https://itch.io/profile/endline-studio).
+- 🎮 Live games are available at [PlayStore](https://play.google.com/store/apps/dev?id=7533958671773408205) && [itch.io](https://itch.io/profile/endline-studio).
 
 - 👻 How to reach me **Nah you can't! ....Kidding 😆 **
 
