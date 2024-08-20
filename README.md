@@ -32,8 +32,8 @@
 
 <h3 align="left">Platforms:</h3>
 <p align="left">
-<a href="https://play.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg" alt="Play Store" width="40" height="40"/> </a>
-<a href="https://www.apple.com/app-store/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="App Store" width="40" height="40"/> </a>
+<a href="https://play.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Play Store" width="40" height="40"/> </a>
+<a href="https://www.apple.com/app-store/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="App Store" width="40" height="40"/> </a>
 <a href="https://itch.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=zfuVDK4SdKFq&format=png&color=FA5252" alt="itch.io" width="40" height="40"/> </a>
-<a href="https://store.steampowered.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-tile.svg" alt="Steam" width="40" height="40"/> </a>
+<a href="https://store.steampowered.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="Steam" width="40" height="40"/> </a>
 </p>
