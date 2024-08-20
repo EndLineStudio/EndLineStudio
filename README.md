@@ -27,5 +27,13 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/monopolies/monopolies.net/-/raw/master/logos/epic-games/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Platforms:</h3>
+<p align="left">
+<a href="https://play.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg" alt="Play Store" width="40" height="40"/> </a>
+<a href="https://www.apple.com/app-store/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="App Store" width="40" height="40"/> </a>
+<a href="https://itch.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=zfuVDK4SdKFq&format=png&color=FA5252" alt="itch.io" width="40" height="40"/> </a>
+<a href="https://store.steampowered.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-tile.svg" alt="Steam" width="40" height="40"/> </a>
 </p>
