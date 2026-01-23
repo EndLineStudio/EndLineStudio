@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/TechBoy-Paradox/TechBoy-Paradox/blob/main/Image/Base.gif"> </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B1D7F7&width=370&lines=Hi%2C+I'm+Piyush%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
-<h3 align="center">A passionate game programmer from India</h3>
+<h3 align="center">👋 Hi, I’m a Game Programmer from India</h3>
 
 
 **ABOUT ME**
@@ -9,14 +9,14 @@
   <img src="https://img.shields.io/badge/Focus-Game%20Development-dodgerblue" />
 </p>
 
-- 🌱 Always excited to take on crazy and creative **Game Development Ideas!**
-- ⚡ Currently working on some personal and freelance projects on **Unreal**
-- 👻 How to reach me **Nah you can't! ....Kidding 😆**
-- 📫 Let's talk Via the **Contact Section!**
+- 🎮 Passionate game programmer focused on building engaging gameplay systems
+- 🌱 Actively working on personal and freelance projects using **Unreal Engine**
+- ⚡ Interested in gameplay, systems design, and performance-focused development
 <picture> <img align="right" src="https://rebelbots.com/images/spiders-p-800.png" width = 450px></picture>
-- 👨‍💻 All of my projects are available at [TechBoy-Paradox](https://github.com/TechBoy-Paradox)
-- 🔭 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/184fXdxGw1bEvRQXW2-ZDyDxdPvHKahbb/view?usp=sharing">Resume</a>
-- 🎮 Live games are available at [PlayStore](https://play.google.com/store/apps/dev?id=7533958671773408205) & [itch.io](https://itch.io/profile/endline-studio)
+- 👨‍💻 All projects available at [TechBoy-Paradox](https://github.com/TechBoy-Paradox)
+- 🔭 View my resume: <a target="_blank" href="https://drive.google.com/file/d/184fXdxGw1bEvRQXW2-ZDyDxdPvHKahbb/view?usp=sharing">Resume</a>
+- 🎯 Published games available on [PlayStore](https://play.google.com/store/apps/dev?id=7533958671773408205) & [itch.io](https://itch.io/profile/endline-studio)
+- 📫 Open to collaboration: Feel free to reach out via the **Contact section**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,15 +40,17 @@
   <a href="https://itch.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=zfuVDK4SdKFq&format=png&color=FA5252" alt="itch.io" width="40" height="40"/> </a>
 </p>
 
+<h1> </h1>
 <!-- Github Stats -->
 
+<!--
 <h1 id="Github stats"><img src="https://i.ibb.co/kq5CGK2/stats.gif" width="50" /> Github Stats:</h1>
 
 <details>
    <summary>Stats ⬇️</summary>
    <div>
       <samp>
-         <!--Github stats Table-->
+         **Github stats Table**
          <table width="100%">
             <tr>
                <td width="50%">
@@ -95,7 +97,7 @@
             </tr>
          </table>
          <br />
-         <!--Contribution Graph-->
+         **Contribution Graph**
          <h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
          <div align="center">
             <img
@@ -105,9 +107,12 @@
       </samp>
    </div>
 </details>
+-->
 
 <p><img src="https://github.com/iydebu/iydebu/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
 </p>
+
+<h1> </h1>
 
 <!-- Connect with me -->
 
